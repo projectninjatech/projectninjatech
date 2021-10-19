@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @projectninjatech
 - 👀 I’m interested in Coding
-- 📫 Youtube Channel - https://www.youtube.com/channel/UCkRLwdYala8xrCuIoh6OEfA
+- 📫 Youtube Channel - https://www.youtube.com/c/ProjectNinjaTech
 
 <!---
 projectninjatech/projectninjatech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
