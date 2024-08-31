@@ -1,6 +1,6 @@
 ### 🚀 Welcome to ProjectNinjaTech's GitHub Profile! 🚀
 
-👋 Hi there! I'm **ProjectNinjaTech**, a passionate coder and tech enthusiast, and I'm excited to share my coding journey with you.
+👋 Hi there! This is Imran Ansari owner of **ProjectNinjaTech**, a passionate coder and tech enthusiast, and I'm excited to share my coding journey with you.
 
 🌐 **Web Development:** I specialize in building web applications using technologies like HTML, CSS, JavaScript, Node.js and MySQL. You'll find a variety of web projects in my repositories, from simple static websites to dynamic web apps.
 
