@@ -12,9 +12,9 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://github.com/projectninjatech/projectninjatech/blob/main/gmquiz.png" width="180" height="100" alt="GeekMind Quiz Thumbnail" />
-    </td>
+    <td style="width: 30%;">
+   <img src="https://github.com/projectninjatech/projectninjatech/blob/main/gmquiz.png" style="width: 100%; max-width: 180px; height: auto;" alt="GeekMind Quiz Thumbnail" />
+</td>
     <td>
       <h3>GeekMind Quiz</h3>
       <p>A daily quiz app featuring various topics and a leaderboard.</p>
