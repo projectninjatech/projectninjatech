@@ -33,7 +33,7 @@
 
   <tr>
     <td>
-      <img src="https://play-lh.googleusercontent.com/your-second-image-link-here" width="100" height="100" alt="Civil Notes Thumbnail" />
+      <img src="https://github.com/projectninjatech/projectninjatech/blob/main/chn.png" width="300" height="200" alt="Civil Notes Thumbnail" />
     </td>
     <td>
       <h3>Civil Notes</h3>
