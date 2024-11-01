@@ -15,7 +15,9 @@
 <table>
   <tr>
     <td style="width: 30%;">
+      <a href="https://play.google.com/store/apps/details?id=com.geekmindquiz">
    <img src="https://github.com/projectninjatech/projectninjatech/blob/main/gmquiz.png" style="width: 100%; max-width: 180px; height: auto;" alt="GeekMind Quiz Thumbnail" />
+      </a>
 </td>
     <td>
       <h3>GeekMind Quiz</h3>
