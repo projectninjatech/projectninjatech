@@ -37,7 +37,9 @@
 
   <tr>
     <td style="width: 30%;">
+      <a href="https://play.google.com/store/apps/details?id=com.civilnotesapp&hl=en_IN">
       <img src="https://github.com/projectninjatech/projectninjatech/blob/main/chn.png" style="width: 100%; max-width: 180px; height: auto;" alt="Civil Notes Thumbnail" />
+      </a>
     </td>
     <td>
       <h3>Civil Hand Notes - GATE</h3>
