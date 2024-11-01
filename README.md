@@ -32,8 +32,8 @@
   </tr>
 
   <tr>
-    <td>
-      <img src="https://github.com/projectninjatech/projectninjatech/blob/main/chn.png" width="300" height="180" alt="Civil Notes Thumbnail" />
+    <td style="width: 30%;">
+      <img src="https://github.com/projectninjatech/projectninjatech/blob/main/chn.png" style="width: 100%; max-width: 180px; height: auto;" alt="Civil Notes Thumbnail" />
     </td>
     <td>
       <h3>Civil Hand Notes - GATE</h3>
