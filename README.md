@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/projectninjatech/projectninjatech/blob/main/gmquiz.png" width="300" height="250" alt="GeekMind Quiz Thumbnail" />
+      <img src="https://github.com/projectninjatech/projectninjatech/blob/main/gmquiz.png" width="300" height="200" alt="GeekMind Quiz Thumbnail" />
     </td>
     <td>
       <h3>GeekMind Quiz</h3>
