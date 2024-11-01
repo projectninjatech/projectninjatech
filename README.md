@@ -33,7 +33,7 @@
 
   <tr>
     <td>
-      <img src="https://github.com/projectninjatech/projectninjatech/blob/main/chn.png" width="300" height="220" alt="Civil Notes Thumbnail" />
+      <img src="https://github.com/projectninjatech/projectninjatech/blob/main/chn.png" width="300" height="180" alt="Civil Notes Thumbnail" />
     </td>
     <td>
       <h3>Civil Notes</h3>
