@@ -33,12 +33,16 @@
 
   <tr>
     <td>
-      <img src="https://github.com/projectninjatech/projectninjatech/blob/main/chn.png" width="300" height="200" alt="Civil Notes Thumbnail" />
+      <img src="https://github.com/projectninjatech/projectninjatech/blob/main/chn.png" width="300" height="220" alt="Civil Notes Thumbnail" />
     </td>
     <td>
       <h3>Civil Notes</h3>
       <p>App for GATE exam preparation with handwritten notes for civil engineering students.</p>
-      <p><a href="https://play.google.com/store/apps/details?id=com.civilnotes">Play Store Link</a></p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.geekmindquiz">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/270px-Google_Play_Store_badge_EN.svg.png" width="120" alt="Get it on Google Play" />
+        </a>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" height="20"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="20"/>
