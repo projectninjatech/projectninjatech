@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://play-lh.googleusercontent.com/your-image-link-here" width="100" height="100" alt="GeekMind Quiz Thumbnail" />
+      <img src="https://github.com/projectninjatech/projectninjatech/blob/main/gmquiz.png" width="100" height="100" alt="GeekMind Quiz Thumbnail" />
     </td>
     <td>
       <h3>GeekMind Quiz</h3>
