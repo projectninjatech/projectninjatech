@@ -2,6 +2,8 @@
 
 👋 Hi there! This is Imran Ansari owner of **ProjectNinjaTech**, a passionate coder and tech enthusiast, and I'm excited to share my coding journey with you.
 
+| [About Me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Contact](#contact) |
+
 🌐 **Web Development:** I specialize in building web applications using technologies like HTML, CSS, JavaScript, Node.js and MySQL. You'll find a variety of web projects in my repositories, from simple static websites to dynamic web apps.
 ☁️ **Cloud Platforms:** My server deployments extend to leading cloud platforms, including:
 
