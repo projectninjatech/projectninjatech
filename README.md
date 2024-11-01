@@ -36,10 +36,10 @@
       <img src="https://github.com/projectninjatech/projectninjatech/blob/main/chn.png" width="300" height="180" alt="Civil Notes Thumbnail" />
     </td>
     <td>
-      <h3>Civil Notes</h3>
+      <h3>Civil Hand Notes - GATE</h3>
       <p>App for GATE exam preparation with handwritten notes for civil engineering students.</p>
       <p>
-        <a href="https://play.google.com/store/apps/details?id=com.geekmindquiz">
+        <a href="https://play.google.com/store/apps/details?id=com.civilnotesapp&hl=en_IN">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/270px-Google_Play_Store_badge_EN.svg.png" width="120" alt="Get it on Google Play" />
         </a>
       </p>
