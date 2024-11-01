@@ -20,7 +20,7 @@
       <p>A daily quiz app featuring various topics and a leaderboard.</p>
      <p>
         <a href="https://play.google.com/store/apps/details?id=com.geekmindquiz">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/270px-Google_Play_Store_badge_EN.svg.png" width="120" alt="Get it on Google Play" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/270px-Google_Play_Store_badge_EN.svg.png" width="720" alt="Get it on Google Play" />
         </a>
       </p>
       <p>
