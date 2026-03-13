@@ -1,6 +1,6 @@
-### 🚀 Welcome to ProjectNinjaTech's GitHub Profile! 🚀
+### 🚀 Welcome to PNT Coding's GitHub Profile! 🚀
 
-👋 Hi there! This is Imran Ansari owner of **ProjectNinjaTech**, a passionate coder and tech enthusiast, and I'm excited to share my coding journey with you.
+👋 Hi there! This is Imran Ansari owner of **PNT Coding**, a passionate coder and tech enthusiast, and I'm excited to share my coding journey with you.
 
 | [About Me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Contact](#contact) |
 
